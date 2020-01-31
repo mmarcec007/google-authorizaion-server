@@ -1,0 +1,6 @@
+{
+  "scopes": [
+    "https://www.googleapis.com/auth/dialogflow",
+    "https://www.googleapis.com/auth/actions.builder"
+  ]
+}
