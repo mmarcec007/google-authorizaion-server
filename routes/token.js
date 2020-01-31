@@ -24,7 +24,6 @@ const getToken = async () => {
   }));
 };
 
-/* GET users listing. */
 router.get('/', async (req, res, next) => {
   let token = await getToken();
   res.send(token);
